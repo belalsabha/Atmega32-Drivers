@@ -15,4 +15,5 @@
 - 7-Segment Driver
 - Keypad Driver
 
-⭐ If you like the repo, consider giving it a Star!
+⭐ Don't forget to give the repository a star.
+
